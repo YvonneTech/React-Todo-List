@@ -26,7 +26,7 @@ By clicking the "Add" button, user could start to add a new task. The "Task" is 
 If user set a reminder to the task, it will have a green badge on the left.   
 ![afterAdded](https://user-images.githubusercontent.com/47659990/148717494-909aa732-5b12-464a-8c1d-933de069ece9.png)
 
-### Delete a task
+### Delete task
 
 To delete a task, click on ❌ Icon.  
 ![deleteTask](https://user-images.githubusercontent.com/47659990/148718231-ef079b52-d340-4c38-879c-8c77df0cc6b7.png)
