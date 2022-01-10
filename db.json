@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "Write 5 LeetCode",
+      "day": "Jan 9",
+      "reminder": false,
+      "id": 1
+    }
+  ]
+}
