@@ -20,10 +20,10 @@ c. Open application at http://localhost:3000
 
 ### Add task
 
-By clicking the "Add" button, user could start to add a new task. The "Task" is required, "Day & Time" is optional.   
+By clicking the "Add" button, user could start to add a new task. The "Task" is required, "Day & Time" is optional. Finally, click the "Save Task" button to save your task.    
 ![AddTask](https://user-images.githubusercontent.com/47659990/148717190-091d9b33-e9fd-46b5-9ba2-cfaace69c8cb.png)
 
-If user set a reminder to the task, it will have a green badge on the left.   
+If user set a reminder to the task, it will have a green badge on the left.  
 ![afterAdded](https://user-images.githubusercontent.com/47659990/148717494-909aa732-5b12-464a-8c1d-933de069ece9.png)
 
 ### Delete task
